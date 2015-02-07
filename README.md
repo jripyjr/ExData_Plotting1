@@ -1,6 +1,6 @@
 ## Instructions
 
-Run the scripts using the command: <b>source("scripts/plot1.r")</b>
+Run the scripts using the command similar to: <b>source("scripts/plot1.r")</b>
 
 If the data file <i>electric_power_consumption.csv</i> is not in the root directory, the script will download and clean the data for you.
 
